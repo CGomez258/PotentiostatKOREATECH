@@ -5,7 +5,10 @@ Requirements:
 2. STM32CubeProgrammer
 
 
-Add in the program access, add the STM32 programmer: C:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin 
+Add in the program access, add the STM32 programmer: 
+1. Open Advanced Settings -> Environment Variables
+2. In System Variables section, in PATH section add the C:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin
+3. Click OK in all windows
 
 
 In Arduino:
